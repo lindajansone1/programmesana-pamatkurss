@@ -4,4 +4,4 @@ Autors: **Linda Jansone**
 - Atver programmu 
 - Palaid programmu
 ## Licence
-Šis projekts ir pieejams ar MIT licenci.
+**Šis projekts ir pieejams ar MIT licenci.**
