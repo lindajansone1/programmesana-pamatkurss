@@ -1,4 +1,7 @@
+# Ignorēt konkrētu failu:
 noslepums.txt
+# Ignorēt visus failus ar konkrētu paplašinājumu
 *.png
+# Ignorēt veselu mapi:
 __pycache__/
 piezimes.txt
