@@ -7,7 +7,7 @@ python pd1/kods/sveiciens.py
 ## Ergonomika
 - Monitors acu līmenī.
 - Regulāri atpūtinu acis.
-- Sēžu ar taisnu muguru.
+- Sēdēt ar taisnu muguru.
 
 ## Secinājums
 Šajā darbā man visvairāk laika aizņēma projekta sakārtošana un failu pareiza izvietošana.
