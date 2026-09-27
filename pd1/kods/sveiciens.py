@@ -1,2 +1,2 @@
 print("Linda Jansone")
-print("Programmēšana-pamatkurss")
+print("Programmēšana - pamatkurss")
